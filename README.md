@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virbo&label=Profile%20views&color=0e75b6&style=flat" alt="virbo" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virbo" alt="virbo" /></a> </p>
-<p align="left"> <a href="https://twitter.com/yusufayuba" target="blank"><img src="https://img.shields.io/twitter/follow/yusufayuba?logo=twitter&style=for-the-badge" alt="yusufayuba" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yusufayuba" target="blank"><img src="https://img.shields.io/twitter/follow/yusufayuba?logo=twitter&style=for-the-badge" alt="yusufayuba" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,5 +14,5 @@
 
 <h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virbo&show_icons=true&locale=en&layout=compact" alt="virbo" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virbo&show_icons=true&locale=en" alt="virbo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=virbo&show_icons=true&locale=en" alt="virbo" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virbo&" alt="virbo" /></p>
